@@ -1,0 +1,10 @@
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\bin\Debug\Atlyginimo_skaičiuoklė.exe.config
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\bin\Debug\Atlyginimo_skaičiuoklė.exe
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\bin\Debug\Atlyginimo_skaičiuoklė.pdb
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\obj\Debug\Atlyginimo_skaičiuoklė.csprojResolveAssemblyReference.cache
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\obj\Debug\Atlyginimo_skaičiuoklė.Form1.resources
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\obj\Debug\Atlyginimo_skaičiuoklė.Properties.Resources.resources
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\obj\Debug\Atlyginimo_skaičiuoklė.csproj.GenerateResource.Cache
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\obj\Debug\Atlyginimo_skaičiuoklė.csproj.CoreCompileInputs.cache
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\obj\Debug\Atlyginimo_skaičiuoklė.exe
+E:\C#\Atlyginimo_skaičiuoklė\Atlyginimo_skaičiuoklė\obj\Debug\Atlyginimo_skaičiuoklė.pdb
